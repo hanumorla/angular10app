@@ -1,0 +1,8 @@
+add code to origin master from remote master branch follow the below steps:-
+1)modify files
+2)add files to git by using git add command
+i)git add . means all modified files add to the origin master from remote master
+3)after adding files are in staging then we have to unstage files by commit files
+git commit -m "commit name"
+4)files add to the origin master by the command is
+git push -u origin master
